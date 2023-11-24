@@ -1,6 +1,10 @@
 # GS2-Edge
 Global Solution - Segundo Semestre
 
+## Membros participantes
++ Matheus Lucas - RM: 99505
++ Bruno Bastos - RM: 550416
+
 ## Sobre o projeto:
 Por meio da nossa ferramenta (site), iremos auxiliar o usuário a ter um dia a dia mais saudável, fornecendo dicas como atividades físicas no dia a dia, e caso o usuário tenha uma receita com nutricionistas, ele pode colocar na plataforma o quanto ele deve consumir no dia a dia para atingir sua meta diária. Com base nas informações do usuário, serão entregues dicas para o dia a dia como atividades físicas, monitoramento de sono, lembretes de alimentação e hidratação e informar pequenos sintomas que podem indicar doenças graves, mostrando a importância de ir a um médico para verificar.
 
